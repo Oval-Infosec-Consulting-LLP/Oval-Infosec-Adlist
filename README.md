@@ -52,7 +52,6 @@ Each category contains a merged text file listing domains related to that topic.
 - updatesites
 - urlshortener
 - violence
-- warez
 - weapons
 - webmail
 - webphone
