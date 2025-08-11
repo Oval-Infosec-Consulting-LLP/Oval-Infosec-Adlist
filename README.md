@@ -7,6 +7,7 @@ Organized into easy-to-manage categories for flexible deployment.
 
 Each category contains a merged text file listing domains related to that topic.
 
+
 - Ads
 - Automobile
 - Cost-Traps
