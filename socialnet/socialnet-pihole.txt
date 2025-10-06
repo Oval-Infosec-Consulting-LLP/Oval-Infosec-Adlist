@@ -208,7 +208,6 @@ e.whatsapp.net
 experienceproject.com
 facebook.at
 facebook.cn
-facebook.com
 facebook.com.br
 facebook.com.tr
 facebook.conduit-services.com
@@ -239,7 +238,6 @@ fbcdn-sphotos-f-a.akamaihd.net
 fbcdn-sphotos-g-a.akamaihd.net
 fbcdn-sphotos-h-a.akamaihd.net
 fbcdn-vthumb-a.akamaihd.net
-fb.com
 fbexternal-a.akamaihd.net
 fbstatic-a.akamaihd.net
 feboz.com
@@ -430,7 +428,6 @@ livelj.com
 lively.com
 ljgate.com
 ljplus.ru
-login.facebook.com
 lokalisten.at
 lokalisten.ch
 lokalisten.com
@@ -1464,7 +1461,6 @@ perfspot.com
 perolasdoorkut.com.br
 piczo.com
 pinksofa.com
-pinterest.com
 planetlivenow.com
 playahead.se
 playboyu.com
@@ -1559,7 +1555,6 @@ slide.com
 smeet.com
 smsfun.com.au
 smudoo.com
-snapchat.com
 snapfish.co.uk
 snapscouts.de
 sns.bgr.jp
@@ -1653,7 +1648,6 @@ tusa.co.il
 tweetdeck.com
 twiends.com
 twimg.com
-twitter.com
 twitter.it
 twoo.com
 twven.com
@@ -1885,7 +1879,6 @@ www.evite.com
 www.experienceproject.com
 www.facebook.at
 www.facebook.cn
-www.facebook.com
 www.facebook.com.br
 www.facebook.com.tr
 www.facebook.conduit-services.com
@@ -1916,7 +1909,6 @@ www.fbcdn-sphotos-f-a.akamaihd.net
 www.fbcdn-sphotos-g-a.akamaihd.net
 www.fbcdn-sphotos-h-a.akamaihd.net
 www.fbcdn-vthumb-a.akamaihd.net
-www.fb.com
 www.fbexternal-a.akamaihd.net
 www.fbstatic-a.akamaihd.net
 www.feboz.com
@@ -2056,7 +2048,6 @@ www.imvu.com
 www.indiayuva.com
 www.indyarocks.com
 www.instabayim.com
-www.instagram.com
 www.ircgalerie.net
 www.irc-galleria.net
 www.irc.lv
@@ -2295,7 +2286,6 @@ www.perfspot.com
 www.perolasdoorkut.com.br
 www.piczo.com
 www.pinksofa.com
-www.pinterest.com
 www.planetlivenow.com
 www.playahead.se
 www.playboyu.com
@@ -2380,7 +2370,6 @@ www.slide.com
 www.smeet.com
 www.smsfun.com.au
 www.smudoo.com
-www.snapchat.com
 www.snapfish.co.uk
 www.snapscouts.de
 www.sns.bgr.jp
@@ -2473,7 +2462,6 @@ www.tusa.co.il
 www.tweetdeck.com
 www.twiends.com
 www.twimg.com
-www.twitter.com
 www.twitter.it
 www.twoo.com
 www.twven.com
