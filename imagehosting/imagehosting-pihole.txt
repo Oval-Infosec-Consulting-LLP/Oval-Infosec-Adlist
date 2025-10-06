@@ -311,7 +311,7 @@ incicaps.com
 indafoto.hu
 indojpg.com
 infobutterfly.it
-instagram.com
+
 instantgallery.de
 interfacelift.com
 interfotki.ru
@@ -1546,7 +1546,6 @@ www.incicaps.com
 www.indafoto.hu
 www.indojpg.com
 www.infobutterfly.it
-www.instagram.com
 www.instantgallery.de
 www.interfacelift.com
 www.interfotki.ru
