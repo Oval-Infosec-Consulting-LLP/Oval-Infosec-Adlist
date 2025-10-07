@@ -1,4 +1,4 @@
-00007.canalblog.com
+W00007.canalblog.com
 002mag.com
 01net.com
 01net.it
@@ -80237,7 +80237,6 @@ telegraf.citycat.ru
 telegraf.com.ua
 telegrafo.com.ec
 telegrafua.com
-telegram.com
 telegraph.com.au
 telegraph.co.uk
 telegraphindia.com
@@ -123113,7 +123112,6 @@ www.telegraf.citycat.ru
 www.telegraf.com.ua
 www.telegrafo.com.ec
 www.telegrafua.com
-www.telegram.com
 www.telegraph.com.au
 www.telegraph.co.uk
 www.telegraphindia.com
